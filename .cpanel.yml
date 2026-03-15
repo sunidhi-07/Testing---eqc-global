@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sunnyn/public_html
+    - /bin/cp -R dist/* $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH/index.html
