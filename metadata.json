@@ -1,0 +1,8 @@
+{
+  "name": "EQC Global - Human Potential & Performance",
+  "description": "A professional consultancy website for EQC Global, focusing on Emotional Intelligence, enterprise solutions, and social impact projects with Razorpay integration and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
